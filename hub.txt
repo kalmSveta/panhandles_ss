@@ -1,0 +1,5 @@
+hub panhandles_ss
+shortLabel panhandles_ss
+longLabel panhandles strand specific
+genomesFile genomes.txt 
+email svetlana.kalmykova@skoltech.ru
