@@ -1,0 +1,7 @@
+track filtered_panhandles_ss
+type bigBed 12 +
+exonArrows on
+exonNumbers on
+bigDataUrl panhandles_preprocessed.bb 
+shortLabel filtered_panhandles_ss
+longLabel filtered strand specific phs from human genome
