@@ -10,6 +10,6 @@ track P4HA1_panhandles_ss
 type bigBed 12 +
 exonArrows on
 exonNumbers on
-bigDataUrl panhandles_preprocessed_P4HA1.bb
+bigDataUrl panhandles_preprocessed_P4HA1_.bb
 shortLabel P4HA1_panhandles_ss
 longLabel phs for P4HA1 strand specific
