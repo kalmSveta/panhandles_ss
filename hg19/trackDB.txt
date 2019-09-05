@@ -11,5 +11,5 @@ type bigBed 12 +
 exonArrows on
 exonNumbers on
 bigDataUrl panhandles_preprocessed_P4HA1.bb
-shortLabel filtered_panhandles_ss
+shortLabel P4HA1_panhandles_ss
 longLabel phs for P4HA1 strand specific
