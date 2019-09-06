@@ -30,13 +30,13 @@ bigDataUrl panhandles_preprocessed_filtered_Energy25.bb
 shortLabel filtered_panhandles_ss_Energy25
 longLabel filtered strand specific phs, Energy <=-25kCal/mol
 
-track filtered_panhandles_ss_Energy25
+track filtered_panhandles_ss_Energy30
 type bigBed 12 +
 exonArrows on
 exonNumbers on
-bigDataUrl panhandles_preprocessed_filtered_Energy25.bb
-shortLabel filtered_panhandles_ss_Energy25
-longLabel filtered strand specific phs, Energy <=-25kCal/mol
+bigDataUrl panhandles_preprocessed_filtered_Energy30.bb
+shortLabel filtered_panhandles_ss_Energy30
+longLabel filtered strand specific phs, Energy <=-30kCal/mol
 
 
  	
