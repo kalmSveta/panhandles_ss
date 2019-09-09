@@ -1,10 +1,9 @@
-track filtered_panhandles_ss
+track filtered_phs_ss
 type bigBed 12 +
-exonArrows on
 exonNumbers on
 itemRgb on
 bigDataUrl panhandles_preprocessed_filtered_marked_MXE.bb
-shortLabel filtered_panhandles_ss
+shortLabel filtered_phs_ss
 longLabel filtered strand specific phs
 
 track P4HA1_panhandles_ss
