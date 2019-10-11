@@ -39,4 +39,11 @@ shortLabel filtered_panhandles_ss_Energy30
 longLabel filtered strand specific phs, Energy <=-30kCal/mol
 
 
+track filtered_phs_ss_CDS_removed
+type bigBed 12 +
+exonNumbers on
+itemRgb on
+bigDataUrl panhandles_preprocessed_filtered_all_intronic.bb
+shortLabel filtered_phs_ss_CDS_removed
+longLabel filtered strand specific phs with CDSs removed
  	
