@@ -37,13 +37,3 @@ exonNumbers on
 bigDataUrl panhandles_preprocessed_P4HA1_.bb
 shortLabel phs_P4HA1_20Kbp_dG15
 longLabel phs for P4HA1 spread 20Kbp dG <= -15kcal/mol
-
-
-track filtered_phs_ss_CDS_removed
-type bigBed 12 +
-exonNumbers on
-itemRgb on
-bigDataUrl panhandles_preprocessed_filtered_all_intronic.bb
-shortLabel filtered_phs_ss_CDS_removed
-longLabel filtered strand specific phs with CDSs removed
- 	
