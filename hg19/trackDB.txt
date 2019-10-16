@@ -1,10 +1,34 @@
-track filtered_phs_ss
+track phs_dG15
 type bigBed 12 +
 exonNumbers on
 itemRgb on
-bigDataUrl panhandles_preprocessed_filtered_marked_MXE.bb
-shortLabel filtered_phs_ss
-longLabel filtered strand specific phs
+bigDataUrl panhandles_preprocessed_filtered_dGcutoff-15.bb
+shortLabel phs_dG15
+longLabel phs dG <= -15 kcal/mol
+
+track phs_dG20
+type bigBed 12 +
+exonNumbers on
+itemRgb on
+bigDataUrl panhandles_preprocessed_filtered_dGcutoff-20.bb
+shortLabel phs_dG20
+longLabel phs dG <= -20 kcal/mol
+
+track phs_dG25
+type bigBed 12 +
+exonNumbers on
+itemRgb on
+bigDataUrl panhandles_preprocessed_filtered_dGcutoff-25.bb
+shortLabel phs_dG25
+longLabel phs dG <= -25 kcal/mol
+
+track phs_dG30
+type bigBed 12 +
+exonNumbers on
+itemRgb on
+bigDataUrl panhandles_preprocessed_filtered_dGcutoff-30.bb
+shortLabel phs_dG30
+longLabel phs dG <= -30 kcal/mol
 
 track P4HA1_panhandles_ss
 type bigBed 12 +
@@ -13,30 +37,6 @@ exonNumbers on
 bigDataUrl panhandles_preprocessed_P4HA1_.bb
 shortLabel P4HA1_panhandles_ss
 longLabel phs for P4HA1 strand specific
-
-track filtered_panhandles_ss_Energy20
-type bigBed 12 +
-exonArrows on
-exonNumbers on
-bigDataUrl panhandles_preprocessed_filtered_Energy20.bb
-shortLabel filtered_panhandles_ss_Energy20
-longLabel filtered strand specific phs, Energy <=-20kCal/mol
-
-track filtered_panhandles_ss_Energy25
-type bigBed 12 +
-exonArrows on
-exonNumbers on
-bigDataUrl panhandles_preprocessed_filtered_Energy25.bb
-shortLabel filtered_panhandles_ss_Energy25
-longLabel filtered strand specific phs, Energy <=-25kCal/mol
-
-track filtered_panhandles_ss_Energy30
-type bigBed 12 +
-exonArrows on
-exonNumbers on
-bigDataUrl panhandles_preprocessed_filtered_Energy30.bb
-shortLabel filtered_panhandles_ss_Energy30
-longLabel filtered strand specific phs, Energy <=-30kCal/mol
 
 
 track filtered_phs_ss_CDS_removed
