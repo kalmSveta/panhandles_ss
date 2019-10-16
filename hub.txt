@@ -1,5 +1,5 @@
-hub panhandles_EXONS
-shortLabel panhandles_EXONS
-longLabel panhandles with filtered EXONS
+hub panhandles_removed_EXONS
+shortLabel panhandles_removed_EXONS
+longLabel panhandles in always intronic regions wrt EXONS
 genomesFile genomes.txt 
 email svetlana.kalmykova@skoltech.ru
