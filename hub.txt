@@ -1,5 +1,5 @@
-hub panhandles_ss
-shortLabel panhandles_ss
-longLabel panhandles strand specific
+hub panhandles_ss_EXONS
+shortLabel panhandles_ss_EXONS
+longLabel panhandles strand specific with filtered EXONS
 genomesFile genomes.txt 
 email svetlana.kalmykova@skoltech.ru
