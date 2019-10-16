@@ -30,13 +30,13 @@ bigDataUrl panhandles_preprocessed_filtered_dGcutoff-30.bb
 shortLabel phs_dG30
 longLabel phs dG <= -30 kcal/mol
 
-track P4HA1_panhandles_ss
+track phs_P4HA1_20Kbp_dG15
 type bigBed 12 +
 exonArrows on
 exonNumbers on
 bigDataUrl panhandles_preprocessed_P4HA1_.bb
-shortLabel P4HA1_panhandles_ss
-longLabel phs for P4HA1 strand specific
+shortLabel phs_P4HA1_20Kbp_dG15
+longLabel phs for P4HA1 spread 20Kbp dG <= -15kcal/mol
 
 
 track filtered_phs_ss_CDS_removed
